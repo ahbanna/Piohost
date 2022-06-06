@@ -1,0 +1,533 @@
+/*Extra large Device*/
+@media (min-width: 1200px) and (max-width: 1515px) {
+
+    /*    slider*/
+
+    .server-img img {
+        width: 100%;
+    }
+
+    /*    footer*/
+    .footer-btn {
+        margin-right: 20px;
+    }
+}
+
+/*LG Device*/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    h2 {
+        font-size: 65px;
+    }
+
+    h3 {
+        font-size: 50px;
+    }
+
+    /*    header*/
+
+    .header-btn .btn {
+        display: none;
+    }
+
+    .main-menu {
+        padding-top: 65px;
+    }
+
+    .main-menu ul li {
+        margin: 0px 17px;
+    }
+
+    /*    slider*/
+
+    .server-img img {
+        width: 100%;
+    }
+
+    /*    domain*/
+
+    .pricing-area {
+        text-align: center;
+        margin-left: 0;
+    }
+
+    .search-btn .btn {
+        right: 17px;
+        width: 150px;
+    }
+
+    .select-area select {
+        top: 27px;
+        left: 408px;
+    }
+
+    .pricing-area ul li a {
+        padding: 12px 17px;
+        font-size: 15px;
+    }
+
+    /*   pp*/
+    .pp-content span {
+        font-size: 60px;
+    }
+
+    /*    faq*/
+    .faq-content .section-title h3 {
+        font-size: 48px;
+    }
+
+    .faq-content .section-title p {
+        font-size: 20px;
+    }
+
+    .card-body {
+        padding: 5px 20px 20px 20px;
+    }
+
+    /*testimonial*/
+    .testimonial-content {
+        padding-left: 10px;
+    }
+
+    .testimonial-area .section-title p {
+        padding-right: 0px;
+    }
+
+    .content-title span {
+        margin-left: 45px;
+    }
+
+    .testimonial-content {
+        padding: 50px 40px;
+    }
+
+    /*news*/
+    .news-content {
+        margin-left: 0;
+    }
+
+    .news-headline h4 {
+        font-size: 21px;
+    }
+
+    /*    footer*/
+    .footer-social {
+        width: 100%;
+    }
+
+    .reffer-btn .btn {
+        height: 52px;
+        width: 180px;
+        padding: 13px 15px;
+    }
+
+    .logo-address {
+        padding: 35px;
+    }
+
+}
+
+/*MD devcie*/
+@media (min-width: 768px) and (max-width: 991px) {
+    h2 {
+        font-size: 60px;
+    }
+
+    h3 {
+        font-size: 45px;
+        line-height: 1.5;
+    }
+
+    /*mobile-menu*/
+    .main-menu {
+        padding-top: 0;
+    }
+
+
+    /*    menu*/
+
+    .header-right {
+        display: none;
+    }
+
+    /*    slider*/
+    .slider-content h2 {
+        padding: 0px 60px;
+    }
+
+    .server-img {
+        top: 62%;
+    }
+
+
+    .server-img img {
+        width: 100%;
+    }
+
+    /*    domain*/
+    .search-btn .btn {
+        right: 0;
+        padding: 10px 10px;
+        width: 150px;
+        height: 50px;
+        top: 8px;
+    }
+
+    .text-type input {
+        /*        width: 484px;*/
+        height: 65px;
+        padding-left: 30px;
+    }
+
+    .select-area select {
+        top: 21px;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+
+    .search-area {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .pricing-area ul li a {
+        padding: 10px 12px;
+        font-size: 15px;
+    }
+
+    /*    service*/
+    .service-area {
+        padding-top: 80px;
+        padding-bottom: 100px;
+    }
+
+    .service-icon {
+        margin-top: 40px;
+    }
+
+    .pp-area {
+        padding-top: 70px;
+        padding-bottom: 90px;
+    }
+
+    .single-plan {
+        padding-top: 40px;
+    }
+
+    .pp-content h4 {
+        font-size: 20px;
+    }
+
+    .pp-content span {
+        font-size: 45px;
+    }
+
+    .pp-content p {
+        padding: 15px 20px;
+        margin-bottom: 0px;
+    }
+
+    .pp-btn a {
+        font-size: 15px;
+    }
+
+    .pp-btn .btn.btn-border {
+        padding: 12px 15px;
+        height: 50px;
+        width: 138px;
+    }
+
+    .details-link {
+        height: 50px;
+        width: 355px;
+    }
+
+    .details-link p {
+        padding: 14px 15px;
+        font-size: 13px;
+    }
+
+    /*news*/
+    .news-area .section-title p {
+        margin-bottom: 0px;
+    }
+
+    .news-area .single-img {
+        margin-top: 40px;
+    }
+
+    /*    faq-area*/
+    .faq-area {
+        padding: 80px 0;
+    }
+
+    .faq-content .section-title h3 {
+        font-size: 40px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .faq-content .section-title p {
+        font-size: 18px;
+    }
+
+    /*    choose*/
+    .choose-area {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .single-choose {
+        margin-bottom: 50px;
+    }
+
+    .single-choose img {
+        /*        width: 100%;*/
+    }
+
+    .choose-content {
+        margin-top: 40px;
+    }
+
+    .choose-content.2nd {
+        margin-top: 0;
+    }
+
+    .choose-area .choose-content h4 {
+        font-size: 22px;
+    }
+
+    .choose-content span::after {
+        /*        width: 198px;*/
+    }
+
+    .choose-area .choose-content p {
+        padding: 0;
+    }
+
+    /*    footer*/
+    .footer-part-1 p2 {
+        margin-left: 0px;
+    }
+
+    .footer-part-1 h6 {
+        margin-left: 0;
+    }
+
+    .footer-btn {
+        text-align: right;
+        float: none;
+        margin-right: 40px;
+    }
+
+    .part-2-right {
+        margin-top: 40px;
+    }
+}
+
+/*SM Device*/
+@media (min-width: 576px) and (max-width:767px) {
+
+    .container {
+        max-width: 540px;
+    }
+
+    h2 {
+        font-size: 35px;
+    }
+
+    h3 {
+        font-size: 42px;
+    }
+
+
+    /*mobile-menu*/
+    .main-menu {
+        padding-top: 0;
+    }
+
+    /*    header*/
+    .header-btn {
+        display: none;
+    }
+
+    .header-right {
+        display: none;
+    }
+
+    /*    slider*/
+    .slider-height {
+        min-height: 675px;
+    }
+
+    .slider-content h2 {
+        line-height: 1.5;
+    }
+
+    .server-img {
+        top: 63%;
+    }
+
+
+    /*    domain*/
+    .select-area {
+        display: none;
+    }
+
+    .search-btn .btn {
+        position: static;
+        margin-top: 15px;
+        display: inline-block;
+    }
+
+    .pricing-area ul li {
+        margin: 0;
+        margin-right: 3px;
+        margin-bottom: 10px;
+
+    }
+
+    /*    service*/
+    .serivce-btn {
+        margin-top: 0;
+    }
+
+    .service-content p {
+        padding: 0 30px;
+    }
+
+    /*    faq*/
+    .faq-content .section-title h3 {
+        font-size: 42px;
+    }
+
+    /*    choose*/
+    .single-choose {
+        margin-bottom: 30px;
+    }
+
+    /*    footer*/
+    .footer-part-1 p2 {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    .footer-part-1 h6 {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+
+    .footer-btn {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 575px) {
+
+    h2 {
+        font-size: 35px;
+    }
+
+    h3 {
+        font-size: 42px;
+    }
+
+
+    /*mobile-menu*/
+    .main-menu {
+        padding-top: 0;
+    }
+
+    /*    header*/
+    .header-btn {
+        display: none;
+    }
+
+    .header-right {
+        display: none;
+    }
+
+    /*    slider*/
+    .slider-height {
+        min-height: 710px;
+    }
+
+    .slider-content {
+        padding-top: 160px;
+    }
+
+    .slider-content h2 {
+        line-height: 1.5;
+    }
+
+    .slider-btn .btn {
+        margin-bottom: 15px;
+    }
+
+    .server-img {
+        top: 80%;
+    }
+
+
+    /*    domain*/
+    .search-area {
+        margin-left: 0;
+    }
+
+    .select-area {
+        display: none;
+    }
+
+    .search-btn .btn {
+        position: static;
+        margin-top: 15px;
+        display: inline-block;
+    }
+
+    .pricing-area ul li {
+        margin: 0;
+        margin-right: 3px;
+        margin-bottom: 10px;
+
+    }
+
+    /*    service*/
+    .serivce-btn {
+        margin-top: 0;
+    }
+
+    .service-content p {
+        padding: 0 30px;
+    }
+
+    /*    faq*/
+    .faq-content .section-title h3 {
+        font-size: 42px;
+    }
+
+    /*    choose*/
+    .single-choose {
+        padding: 40px 20px;
+        margin-bottom: 30px;
+    }
+
+    /*    footer*/
+    .footer-part-1 p2 {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    .footer-part-1 h6 {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+
+    .footer-btn {
+        margin-top: 20px;
+    }
+
+
+
+
+}
